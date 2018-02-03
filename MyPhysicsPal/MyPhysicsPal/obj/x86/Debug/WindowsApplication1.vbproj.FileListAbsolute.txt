@@ -1,0 +1,9 @@
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\MyPhysicsPal.exe
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\MyPhysicsPal.pdb
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\MyPhysicsPal.xml
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyPhysicsPal.LeisKepler.resources
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyPhysicsPal.Resources.resources
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyPhysicsPal.exe
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyPhysicsPal.xml
+C:\Users\Migue\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyPhysicsPal.pdb

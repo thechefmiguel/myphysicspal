@@ -1,0 +1,10 @@
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.exe
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.xml
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.pdb
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.LeisKepler.resources
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.Resources.resources
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.vbproj.GenerateResource.Cache
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\bin\Debug\MyPhysicsPal.exe
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\bin\Debug\MyPhysicsPal.pdb
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\bin\Debug\MyPhysicsPal.xml
+C:\Users\Migue\OneDrive\Documentos\GitHub\myphysicspal\MyPhysicsPal\MyPhysicsPal\obj\x86\Debug\MyPhysicsPal.PrimeiraLeideKepler.resources
